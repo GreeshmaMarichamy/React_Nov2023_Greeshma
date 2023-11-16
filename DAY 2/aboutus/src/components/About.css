@@ -1,0 +1,38 @@
+*{
+    background-color:azure
+}
+.head
+{
+    color:crimson;
+}
+.hstyle
+{
+    text-align:start;
+    font-style: italic;
+}
+.pstyle
+{
+    text-indent: 50px;
+    text-align:start;
+    font-style: oblique;
+}
+.pstyle1
+{
+    text-indent: 50px;
+    text-align:left;
+    font-style: oblique;
+}
+.pstyle2
+{
+    font-style:;
+    text-align: left;
+    font-style: oblique;
+}
+.mar
+{
+    margin-left: 50px;
+}
+img
+{
+    width: 500px;
+}
